@@ -14,7 +14,7 @@
     hints: 
       - Who are the intended beneficiaries of your proposal?
 - action plan:
-    requirement: Provide details of actionable intent 
+    requirement: Provide details of actionable intent.
     description: A description of what work you plan on doing to progress towards your goals, in order of execution.
     hints: 
       - What actionable tasks will you do, in what order?
