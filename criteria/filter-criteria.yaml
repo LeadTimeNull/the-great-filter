@@ -1,0 +1,47 @@
+- problem statement:
+    requirement: Provide description of issue/deficiency.
+    description: A detailed description of the problem or opportunity for improvement the proposal aims to relieve.
+    hints: 
+      - What is your proposal trying to solve?
+- clear goals: 
+    requirement: Provide description of desired outcome.
+    description: A clear definition of the intended succesful outcome of the completed proposal.
+    hints: 
+      - What does your proposal want to achieve?
+- target demographic:
+    requirement: Specify intended target group
+    description: An account of whom exactly the proposal intends to provide a positive change for.
+    hints: 
+      - Who are the intended beneficiaries of your proposal?
+- action plan:
+    requirement: Provide details of actionable intent 
+    description: A description of what work you plan on doing to progress towards your goals, in order of execution.
+    hints: 
+      - What actionable tasks will you do, in what order?
+      - How are you going to progress towards your goals?
+- roadmap:
+    requirement: Provide a timeline outline of development plans
+    description: An account of what work will be done at what time. Milestones and deliverables, layed out with chronological estimates.
+    hints: 
+      - How long is your development going to last? 
+      - When do you expect to deliver on your proposal?
+      - Will you provide gradual results, or everything at once?
+      - Is your proposal a standalone project, or one chapter of a bigger book?
+- performance metrics:
+    requirement: Specify what key performance indicators will be used to quantity the success of the proposal
+    description: A clear definition of what quantifiable metrics you will employ, in order to determine whether your work is failing or succeeding at achieving your goals.
+    hints: 
+      - How do you measure whether your work is a success or a failure?
+      - Are you measuring your acceptance criteria objectively?
+- skills required:
+    requirement: Account for what experience/skillsets will be necessary to deliver on the proposal
+    description: An account of what skills are required for your proposal to be implemented. Even if you don't have said skills yourself, by showing you are aware of what's needed, you show you know what you need to either learn or hire help for.
+    hints: 
+      - What skills or experience is required to deliver on your proposal?
+      - What capabilities will a person/team need to possess, in order to carry out your proposal?
+- budget breakdown:
+    requirement: Provide description of intended use of requested budget
+    description: A description of what expenses your requested budget will be used to cover.
+    hints: 
+      - What are you going to spend the money on?
+      - Are you taking personal compensation?
